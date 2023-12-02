@@ -64,4 +64,18 @@ ESGInvestPy is a Python package designed to facilitate easy access to and analys
 - **User Documentation and Examples**: Provide comprehensive documentation and usage examples to help users understand how to utilize each feature.
 - **Code Testing and Optimization**: Conduct thorough unit tests to ensure code quality and performance.
 
+## Challenges in Developing ESGInvestPy
 
+Developing ESGInvestPy involves navigating through various challenges, ranging from technical complexities to data management issues. Here's an overview of the potential hurdles and considerations:
+
+### 1. API Limitations and Reliability
+- **Rate Limits**: APIs often have request limits, which can hinder data access.
+- **Data Availability and Accuracy**: Ensuring the API provides comprehensive, accurate, and up-to-date ESG data.
+
+### 2. Data Complexity and Processing
+- **Complex Data Structures**: ESG data can have nested objects requiring careful parsing.
+- **Data Volume**: Handling large datasets efficiently to avoid performance issues.
+
+### 3. Authentication and Security
+- **API Key Management**: Securely managing API keys to prevent unauthorized access.
+- **Secure Data Transmission**: Ensuring data is transmitted securely to and from the API.
